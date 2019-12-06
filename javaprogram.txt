@@ -1,1 +1,3 @@
 this is java program for adding numbers
+
+i have added  a method for subtraction
